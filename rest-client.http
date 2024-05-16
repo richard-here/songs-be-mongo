@@ -7,3 +7,6 @@ Content-Type: application/json
   "duration" :"02:33",
   "lyrics": "I don't know why I can't quite get you out my sight You're always just behind"
 }
+
+### Get songs
+GET http://localhost:3000/songs
